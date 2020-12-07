@@ -19,7 +19,7 @@ namespace pizzacımv1
             InitializeComponent();
        
         }
-        SqlConnection connectDb = new SqlConnection("Data Source=AHMETFATIH\\MSSQLSERVER01;Initial Catalog=pizzacimv1;Integrated Security=True");
+        SqlConnection connectDb = new SqlConnection("Data Source=18.219.99.255,1433;Network Library = DBMSSOCN;Initial Catalog=pizzacimv1;User Id=pizzaci;Password=963852741");
         SqlCommand cmd = new SqlCommand();
         SqlDataReader readData = null;
         public void loginsubmit_Click(object sender, EventArgs e)
@@ -36,10 +36,11 @@ namespace pizzacımv1
                 sda.Fill(dt);
                 if (dt.Rows[0][0].ToString()=="1")
                 {
-                    MessageBox.Show("Kullanici Adi Ve Sifreniz Dogru ");
-                    MainPAge mainPAge = new MainPAge();
+                    MessageBox.Show("Kullanici Adi Ve Sifreniz Dogru ","UYARI",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                    MainPage mainPAge = new MainPage();
                     mainPAge.Show();
-                
+                    
+
                 }
                 else
                 {
@@ -54,12 +55,10 @@ namespace pizzacımv1
            
         }
 
-        public void adduser_Click(object sender, EventArgs e)
+
+        private void loginusername_TextChanged(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();
-            form2.Show();
-            
-            
+
         }
     }
 }

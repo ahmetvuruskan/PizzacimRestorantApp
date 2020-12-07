@@ -10,3 +10,15 @@ C:\Users\AhmetFatih\source\repos\pizzacımv1\pizzacımv1\obj\Debug\pizzacımv1.e
 C:\Users\AhmetFatih\source\repos\pizzacımv1\pizzacımv1\obj\Debug\pizzacımv1.pdb
 C:\Users\AhmetFatih\source\repos\pizzacımv1\pizzacımv1\obj\Debug\pizzacımv1.Form2.resources
 C:\Users\AhmetFatih\source\repos\pizzacımv1\pizzacımv1\obj\Debug\pizzacımv1.MainPAge.resources
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\bin\Debug\pizzacımv1.exe.config
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\bin\Debug\pizzacımv1.exe
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\bin\Debug\pizzacımv1.pdb
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.csprojAssemblyReference.cache
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.Form1.resources
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.Form2.resources
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.MainPAge.resources
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.Properties.Resources.resources
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.csproj.GenerateResource.cache
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.csproj.CoreCompileInputs.cache
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.exe
+C:\Users\AhmetFatih\Source\Repos\printSihirbaz\Pizzacim-RestorantAPP\pizzacımv1\obj\Debug\pizzacımv1.pdb
