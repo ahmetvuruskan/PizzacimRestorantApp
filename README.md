@@ -1,5 +1,5 @@
 # PizzacimRestorantApp
-Şuanda aktif bir veritabanı bağlantısı bulunmaktadır kullanıcı adı ve şifre 'admin' dir.
+Şuanda aktif bir veritabanı bağlantısı bulunmamaktadır Kullanıcı adı ve şifre 'admin' dir.
 Kendi veritabanı sunucunuzda kullanmak için form1 kodları içinde bulunan bağlantı ayarlarını kendi sunucunuza göre yapmanız gerekmektedir.
 printSihirbaz
 Ahmet Vuruşkan 
